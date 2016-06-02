@@ -1,6 +1,8 @@
-### Camel Keeper: Jammazwan
+"Jammazwan" [is Hindi](href="https://books.google.com/books?id=_kWROaer5UsC&amp;pg=PA1138&amp;lpg=PA1138&amp;dq=jammazwan+camel+keeper+hindi&amp;source=bl&amp;ots=7FaF5BXK_F&amp;sig=Cg-U5ORP3dHrFycaCFvo34GdpZ0&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwj8v4OV3YbNAhVjpIMKHSYUB_oQ6AEIHDAA#v=onepage&amp;q=jammazwan%20camel%20keeper%20hindi&amp;f=false) for "camel keeper".
 
-"Jammazwan" [is Hindi](https://books.google.com/books?id=_kWROaer5UsC&pg=PA1138&lpg=PA1138&dq=jammazwan+camel+keeper+hindi&source=bl&ots=7FaF5BXK_F&sig=Cg-U5ORP3dHrFycaCFvo34GdpZ0&hl=en&sa=X&ved=0ahUKEwj8v4OV3YbNAhVjpIMKHSYUB_oQ6AEIHDAA#v=onepage&q=jammazwan%20camel%20keeper%20hindi&f=false) for "camel keeper". [**Apache Camel**](http://camel.apache.org/), which is sponsored and maintained by Red Hat, and a part of it's [Fuse](https://www.redhat.com/en/technologies/jboss-middleware/fuse) offering. [More on Jammazwan here.](https://betterologist.net/2016/05/jammazwan-projec…ing-apache-camel/)
+|a jammazwan?|also a jammazwan|
+| --- | --- |
+|<img class="style-svg" src="https://betterologist.net/wp-content/uploads/2016/05/pete-300x297.jpg" alt="pete" width="116" height="115" />|<img class="style-svg" src="https://betterologist.net/wp-content/uploads/2016/05/jammazwanPhotoSmall.png" alt="jammazwanPhotoSmall" width="200" height="116" />|
 
 ---
 
