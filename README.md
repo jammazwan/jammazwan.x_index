@@ -10,4 +10,36 @@
 
 Description: **_Creates an index of x_MyUseCase projects_**
 
-This project is currently a placeholder only. Some day, it may be done.
+### Index
+
+
+[**xaa_SingleObjectToJsonFile**](https://github.com/jammazwan/xaa_SingleObjectToJsonFile)
+
+ * Create an object and save it as json in a file
+ * Uses camel-jackson, camel-file
+ 
+ 
+[**xab_SeedDbFromManyCsvFiles**](https://github.com/jammazwan/xab_SeedDbFromManyCsvFiles)
+
+ * Uses JPA and biny to seed a database from many different csv files
+ * Uses camel-bindy, camel-jpa, camel-file
+ 
+
+[**xaa_SingleObjectToJsonFile**](https://github.com/jammazwan/xaa_SingleObjectToJsonFile)
+
+ * Create an object and save it as json in a file
+ * Uses camel-jackson, camel-file
+ 
+[**xab_SeedDbFromManyCsvFiles**](https://github.com/jammazwan/xab_SeedDbFromManyCsvFiles)
+
+ * Uses JPA and biny to seed a database from many different csv files
+ * Uses camel-bindy, camel-jpa, camel-file
+ 
+
+[**xaa_SingleObjectToJsonFile**](https://github.com/jammazwan/xaa_SingleObjectToJsonFile)
+
+ * Create an object and save it as json in a file
+ * Uses camel-jackson, camel-file
+
+---
+
