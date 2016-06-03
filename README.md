@@ -12,8 +12,7 @@
 
 # jammazwan.x_index:
 
-Description: **_Creates an index of x_MyUseCase projects_**
-
+An index of **_x_MyUseCase_** projects:
 
 Search by title or description visually. **Or use the browser search** to search for "camel-jpa" or ....
 
