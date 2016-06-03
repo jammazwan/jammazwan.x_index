@@ -6,7 +6,7 @@
 
 ---
 
-# Easily runnable code beats documentation snippets, anytime, anywhere!
+# Small & easily runnable Camel code beats documentation snippets any day!
 
 ---
 
