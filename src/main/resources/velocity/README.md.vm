@@ -6,7 +6,11 @@
 
 ---
 
-# jammazwan.x_index
+# Easily runnable code beats documentation snippets, anytime, anywhere!
+
+---
+
+# jammazwan.x_index:
 
 Description: **_Creates an index of x_MyUseCase projects_**
 

@@ -1,0 +1,6 @@
+echo "--------------------"
+echo "--------------------"
+echo "--------------------"
+echo "--------------------"
+${headers.xgitstatuscheck}
+cd ~/work/jammazwan
