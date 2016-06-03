@@ -3,25 +3,17 @@ package jammazwan.x;
 import org.apache.camel.Exchange;
 import org.apache.camel.Processor;
 import org.apache.camel.builder.RouteBuilder;
-import org.springframework.beans.factory.annotation.Autowired;
-
 
 public class XRoutes extends RouteBuilder {
 
-    @Autowired
-    private XBean xBean;
-    @Autowired
-    private XProcessor xProcessor;
-
-    @Override
-    public void configure() throws Exception {
-        from("direct:x")
-            .process(new Processor() {
-                public void process(Exchange exchange) throws Exception {
-                    String text = exchange.getIn().getBody(String.class);
-                    String newAnswer = xBean.answer(text);
-                    exchange.getOut().setBody(newAnswer);
-                }
-            });
-    }
+	@Override
+	public void configure() throws Exception {
+		from("file:../jammazwan.maker/src/main/resources?noop=true&fileName=xlinks.txt").process(new Processor() {
+			public void process(Exchange exchange) throws Exception {
+				String text = exchange.getIn().getBody(String.class);
+				exchange.getIn().setHeader("CamelFileName", "README.md");
+				exchange.getIn().setHeader("xlinks", text);
+			}
+		}).to("velocity://velocity/README.md.vm").to("file:.");
+	}
 }
