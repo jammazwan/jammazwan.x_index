@@ -12,7 +12,7 @@
 
 # jammazwan.x_index:
 
-An index of **_x_MyUseCase_** projects:
+An index of small, stand-alone **_x.._MyUseCase_** Camel example projects:
 
 Search by title or description visually. **Or use the browser search** to search for "camel-jpa" or ....
 
