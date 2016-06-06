@@ -24,14 +24,20 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
 
 [**xaa_SingleObjectToJsonFile**](https://github.com/jammazwan/xaa_SingleObjectToJsonFile)
 
- * Create an object and save it as json in a file
- * Uses jackson, file
+ * Create an object, and save it as json in a file
+ * Uses camel-jackson camel-file
 
 
 [**xab_SeedDbFromManyCsvFiles**](https://github.com/jammazwan/xab_SeedDbFromManyCsvFiles)
 
- * Uses JPA and biny to seed a database from many different csv files
- * Uses bindy jpa file
+ * Show off project only: Uses JPA and camel-bindy to seed a database from many different csv files
+ * Uses camel-bindy camel-jpa camel-file
+
+
+[**xac_PartialCopyCsvSplitAggregate**](https://github.com/jammazwan/xac_PartialCopyCsvSplitAggregate)
+
+ * Create single field .csv file from multiple field .csv file, using simple splitter and aggregation
+ * Uses camel-bindy  camel-file
 
 
 ---
