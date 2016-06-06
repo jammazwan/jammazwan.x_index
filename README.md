@@ -46,5 +46,11 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
  * Uses camel-file
 
 
+[**xae_CsvFileToObjects**](https://github.com/jammazwan/xae_CsvFileToObjects)
+
+ * Opens .csv file, creates java objects from contents
+ * Uses camel-file, camel-bindy
+
+
 ---
 
