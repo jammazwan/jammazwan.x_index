@@ -37,7 +37,13 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
 [**xac_PartialCopyCsvSplitAggregate**](https://github.com/jammazwan/xac_PartialCopyCsvSplitAggregate)
 
  * Create single field .csv file from multiple field .csv file, using simple splitter and aggregation
- * Uses camel-bindy  camel-file
+ * Uses camel-csv camel-file
+
+
+[**xad_FileToConsoleLog**](https://github.com/jammazwan/xad_FileToConsoleLog)
+
+ * Displays contents of a file in the console. Simplest possible file project
+ * Uses camel-file
 
 
 ---
