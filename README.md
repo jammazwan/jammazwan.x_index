@@ -52,5 +52,53 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
  * Uses camel-file, camel-bindy
 
 
+[**xaf_SplitXML**](https://github.com/jammazwan/xaf_SplitXML)
+
+ * Different options for splitting a body with XML content
+ * Uses 
+
+
+[**xag_SplitJSON**](https://github.com/jammazwan/xag_SplitJSON)
+
+ * Different options for splitting a body with JSON content
+ * Uses 
+
+
+[**xah_SplitIterable**](https://github.com/jammazwan/xah_SplitIterable)
+
+ * Different options for splitting a body which is an Iterable
+ * Uses 
+
+
+[**xai_SplitString**](https://github.com/jammazwan/xai_SplitString)
+
+ * Different options for splitting a body with a String as content
+ * Uses 
+
+
+[**xaj_SplitFile**](https://github.com/jammazwan/xaj_SplitFile)
+
+ * Different options for splitting a body with a file as content
+ * Uses 
+
+
+[**xak_SplitObject**](https://github.com/jammazwan/xak_SplitObject)
+
+ * Different options for splitting a body with a single object as content
+ * Uses 
+
+
+[**xal_SplitAggregate**](https://github.com/jammazwan/xal_SplitAggregate)
+
+ * Splitting and aggregating back in the same call
+ * Uses 
+
+
+[**xam_CsvFileToRandomXmlJsonFile**](https://github.com/jammazwan/xam_CsvFileToRandomXmlJsonFile)
+
+ * Show off project only. Generates random XML and JSON files from CSV input
+ * Uses 
+
+
 ---
 
