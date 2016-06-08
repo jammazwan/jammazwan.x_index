@@ -94,7 +94,7 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
  * Uses 
 
 
-[**xam_CsvFilesToRandomXmlJsonFile**](https://github.com/jammazwan/xam_CsvFilesToRandomXmlJsonFile)
+[**xam_CsvFileToRandomXmlJsonFile**](https://github.com/jammazwan/xam_CsvFileToRandomXmlJsonFile)
 
  * Show off project only. Generates random XML and JSON files from CSV input
  * Uses camel-file camel-bindy camel-jackson camel-jaxb
