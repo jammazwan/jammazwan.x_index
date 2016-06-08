@@ -94,10 +94,22 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
  * Uses 
 
 
-[**xam_CsvFileToRandomXmlJsonFile**](https://github.com/jammazwan/xam_CsvFileToRandomXmlJsonFile)
+[**xam_CsvFilesToRandomXmlJsonFile**](https://github.com/jammazwan/xam_CsvFilesToRandomXmlJsonFile)
 
  * Show off project only. Generates random XML and JSON files from CSV input
- * Uses 
+ * Uses camel-file camel-bindy camel-jackson camel-jaxb
+
+
+[**xan_SingleObjectToXmlJaxb**](https://github.com/jammazwan/xan_SingleObjectToXmlJaxb)
+
+ * Uses JAXB to create two xml files from two different objects, attributes, elements
+ * Uses camel-file camel-jaxb
+
+
+[**xao_SingleObjectToXmlJackson**](https://github.com/jammazwan/xao_SingleObjectToXmlJackson)
+
+ * Uses JacksonXML to create xml from a single object
+ * Uses camel-file camel-jacksonxml
 
 
 ---
