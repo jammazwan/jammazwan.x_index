@@ -55,19 +55,19 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
 [**xaf_SplitXML**](https://github.com/jammazwan/xaf_SplitXML)
 
  * Different options for splitting a body with XML content
- * Uses 
+ * Uses camel-file camel-jackson camel-jacksonxml
 
 
 [**xag_SplitJSON**](https://github.com/jammazwan/xag_SplitJSON)
 
  * Different options for splitting a body with JSON content
- * Uses 
+ * Uses camel-jsonpath camel-file
 
 
 [**xah_SplitIterable**](https://github.com/jammazwan/xah_SplitIterable)
 
- * Different options for splitting a body which is an Iterable
- * Uses 
+ * The mother of all splits: an Iterable body, or a bean, or an expression
+ * Uses camel-core
 
 
 [**xai_SplitString**](https://github.com/jammazwan/xai_SplitString)
