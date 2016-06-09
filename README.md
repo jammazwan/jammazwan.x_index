@@ -73,19 +73,7 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
 [**xai_SplitString**](https://github.com/jammazwan/xai_SplitString)
 
  * Different options for splitting a body with a String as content
- * Uses 
-
-
-[**xaj_SplitFile**](https://github.com/jammazwan/xaj_SplitFile)
-
- * Different options for splitting a body with a file as content
- * Uses 
-
-
-[**xak_SplitObject**](https://github.com/jammazwan/xak_SplitObject)
-
- * Different options for splitting a body with a single object as content
- * Uses 
+ * Uses camel-file
 
 
 [**xal_SplitAggregate**](https://github.com/jammazwan/xal_SplitAggregate)
