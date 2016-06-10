@@ -124,15 +124,9 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
  * Uses camel-core
 
 
-[**xat_QuartzTimerOptions**](https://github.com/jammazwan/xat_QuartzTimerOptions)
-
- * Uses the Quartz timer a few different ways
- * Uses camel-quartz
-
-
 [**xau_VelocityTemplateToFile**](https://github.com/jammazwan/xau_VelocityTemplateToFile)
 
- * Uses the Velocity template engine to write a file
+ * Uses the Velocity template engine to write files
  * Uses camel-file camel-velocity
 
 
