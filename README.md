@@ -100,5 +100,41 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
  * Uses camel-file camel-jacksonxml
 
 
+[**xap_HttpToFile**](https://github.com/jammazwan/xap_HttpToFile)
+
+ * Uses camel-http to copy wired.com to file
+ * Uses camel-file camel-http
+
+
+[**xaq_JettyHttpToFile**](https://github.com/jammazwan/xaq_JettyHttpToFile)
+
+ * Uses camel-jetty to copy wired.com to file
+ * Uses camel-file camel-jetty
+
+
+[**xar_FileToFtp**](https://github.com/jammazwan/xar_FileToFtp)
+
+ * Uses camel-ftp to write a file from source
+ * Uses camel-file camel-ftp
+
+
+[**xas_TimerOptions**](https://github.com/jammazwan/xas_TimerOptions)
+
+ * Uses timer a few different ways
+ * Uses camel-core
+
+
+[**xat_QuartzTimerOptions**](https://github.com/jammazwan/xat_QuartzTimerOptions)
+
+ * Uses the Quartz timer a few different ways
+ * Uses camel-quartz
+
+
+[**xau_VelocityTemplateToFile**](https://github.com/jammazwan/xau_VelocityTemplateToFile)
+
+ * Uses the Velocity template engine to write a file
+ * Uses camel-file camel-velocity
+
+
 ---
 
