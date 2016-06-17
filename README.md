@@ -129,5 +129,29 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
  * Uses camel-file camel-velocity
 
 
+[**xav_CxfCodeFirstSimple**](https://github.com/jammazwan/xav_CxfCodeFirstSimple)
+
+ * Code first CXF (SOAP) example project. Accepts, and returns simple input. 1 of 4
+ * Uses camel-cxf cxf-rt-transports-http-jetty
+
+
+[**xaw_CxfWsdlFirstSimple**](https://github.com/jammazwan/xaw_CxfWsdlFirstSimple)
+
+ * WSDL first CXF (SOAP) example project. Accepts, and returns simple input. 2 of 4
+ * Uses camel-cxf cxf-rt-transports-http-jetty wsdl2java
+
+
+[**xax_CxfCodeFirstComplex**](https://github.com/jammazwan/xax_CxfCodeFirstComplex)
+
+ * Code first CXF (SOAP) example project. Accepts, and returns complex objects. 3 of 4
+ * Uses camel-cxf cxf-rx-transports-http-jetty
+
+
+[**xay_CxfWsdlFirstComplex**](https://github.com/jammazwan/xay_CxfWsdlFirstComplex)
+
+ * Code first CXF (SOAP) example project. Accepts, and returns complex objects.  4 of 4
+ * Uses camel-cxf cxf-rt-transports-http-jetty wsdl2java
+
+
 ---
 
