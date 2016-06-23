@@ -153,5 +153,17 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
  * Uses camel-cxf cxf-rt-transports-http-jetty wsdl2java
 
 
+[**xaz_TransformWithBean**](https://github.com/jammazwan/xaz_TransformWithBean)
+
+ * Transform a body using a bean
+ * Uses camel-file
+
+
+[**xba_TransformWithExpressions**](https://github.com/jammazwan/xba_TransformWithExpressions)
+
+ * Exploration of several transforms executed with Camel Expressions
+ * Uses camel-file
+
+
 ---
 
