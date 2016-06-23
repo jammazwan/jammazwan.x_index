@@ -165,5 +165,11 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
  * Uses camel-file
 
 
+[**xbb_TransformWithXslt**](https://github.com/jammazwan/xbb_TransformWithXslt)
+
+ * Transform an XML file with XSLT
+ * Uses camel-file
+
+
 ---
 
