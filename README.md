@@ -171,5 +171,17 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
  * Uses camel-file
 
 
+[**xbc_NonEIPMultipleTo**](https://github.com/jammazwan/xbc_NonEIPMultipleTo)
+
+ * What happens if we use multiple to(...) statements instead of proper EIP patterns?
+ * Uses camel-file
+
+
+[**xbd_EIPdistributionComparison**](https://github.com/jammazwan/xbd_EIPdistributionComparison)
+
+ * show RecipientList RoutingSlip DynamicRoute Wiretap Multicast as compared to each other
+ * Uses camel-file
+
+
 ---
 
