@@ -5,7 +5,11 @@
 |<img class="style-svg" src="https://betterologist.net/wp-content/uploads/2016/05/pete-300x297.jpg" alt="pete" width="116" height="115" />|<img class="style-svg" src="https://betterologist.net/wp-content/uploads/2016/05/jammazwanPhotoSmall.png" alt="jammazwanPhotoSmall" width="200" height="116" />|[<img class="style-svg" src="https://betterologist.net/wp-content/uploads/2016/05/jamzVid1.png" alt="about" width="115" height="115" />](https://youtu.be/vea51DzmXyA)|
 ---
 
-# Small & easily runnable Camel code beats documentation snippets any day!
+### Why not Official Camel Examples?
+
+Jammazwan x__projects cover simpler issues than (official Camel examples)[http://camel.apache.org/examples.html], and in a more isolated fashion. They are designed more for learning a part of Camel quickly, than a demo of Camel capabilities. Some x__projects are complex, but are marked accordingly.
+
+(official Camel examples)[http://camel.apache.org/examples.html] are always recommended, when appropriate. X__projects supplement them for the developer who wants to learn isolated pieces quickly.
 
 ---
 
@@ -16,7 +20,6 @@ An index of small, stand-alone **_x.._MyUseCase_** Camel example projects:
 Search by title or description visually. **Or use the browser search** to search for "camel-jpa" or ....
 
 If you want a more verbose JSON source to search, [*try this JSON source*](https://github.com/jammazwan/jammazwan.maker/blob/master/src/main/resources/xyzprojects.json)
-
 ---
 
 
@@ -180,6 +183,18 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
 [**xbd_EIPdistributionComparison**](https://github.com/jammazwan/xbd_EIPdistributionComparison)
 
  * show RecipientList RoutingSlip DynamicRoute Wiretap Multicast as compared to each other
+ * Uses camel-file
+
+
+[**xbe_FileConsumptionOptions**](https://github.com/jammazwan/xbe_FileConsumptionOptions)
+
+ * Exploration - File consumption options - basic
+ * Uses camel-file
+
+
+[**xbf_FileProductionOptions**](https://github.com/jammazwan/xbf_FileProductionOptions)
+
+ * Exploration - File production and move options - basic
  * Uses camel-file
 
 
