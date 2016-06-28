@@ -20,6 +20,7 @@ An index of small, stand-alone **_x.._MyUseCase_** Camel example projects:
 Search by title or description visually. **Or use the browser search** to search for "camel-jpa" or ....
 
 If you want a more verbose JSON source to search, [*try this JSON source*](https://github.com/jammazwan/jammazwan.maker/blob/master/src/main/resources/xyzprojects.json)
+
 ---
 
 
