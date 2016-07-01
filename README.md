@@ -9,7 +9,7 @@
 
 Jammazwan x__projects cover simpler issues than [official Camel examples](http://camel.apache.org/examples.html), and in a more isolated fashion. They are designed more for learning a part of Camel quickly, than a demo of Camel capabilities. Some x__projects are complex, but are marked accordingly.
 
-[official Camel examples](http://camel.apache.org/examples.html) are a great combination to the projects below for learning Camel.
+[Official Camel examples](http://camel.apache.org/examples.html) are a great complement to the projects below for learning Camel.
 
 ---
 
@@ -197,6 +197,24 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
 
  * Exploration - File production and move options - basic
  * Uses camel-file
+
+
+[**xbg_JpaCreateOfCRUD**](https://github.com/jammazwan/xbg_JpaCreateOfCRUD)
+
+ * JPA - Create of CRUD
+ * Uses camel-file, camel-jpa, derbyDB
+
+
+[**xbk_JmsLocal**](https://github.com/jammazwan/xbk_JmsLocal)
+
+ * JMS messaging to a local VM only
+ * Uses camel-file camel-jms
+
+
+[**xbl_JmsRemote**](https://github.com/jammazwan/xbl_JmsRemote)
+
+ * JMS messaging to a remote running JMS server
+ * Uses camel-file camel-jms
 
 
 ---
