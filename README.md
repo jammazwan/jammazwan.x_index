@@ -217,5 +217,17 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
  * Uses camel-file camel-jms
 
 
+[**xbm_BeanParameters**](https://github.com/jammazwan/xbm_BeanParameters)
+
+ * Examples of calling a bean with different combinations of camel inputs
+ * Uses camel-core
+
+
+[**xbn_Properties**](https://github.com/jammazwan/xbn_Properties)
+
+ * Consuming a basic properties file in a camel project.
+ * Uses camel-core
+
+
 ---
 
