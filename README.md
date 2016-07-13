@@ -229,5 +229,17 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
  * Uses camel-core
 
 
+[**xbo_BareBonesCamelMicroService**](https://github.com/jammazwan/xbo_BareBonesCamelMicroService)
+
+ * Bare bones server - microservice Camel
+ * Uses camel-core
+
+
+[**xbp_SpringBootBareBonesCamelMicroService**](https://github.com/jammazwan/xbp_SpringBootBareBonesCamelMicroService)
+
+ * Bare bones server - microservice Camel on a Spring Boot base
+ * Uses camel-core springboot
+
+
 ---
 
