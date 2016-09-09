@@ -246,6 +246,5 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
  * Bare bones Drools run inside a Camel route
  * Uses camel-file, drools
 
-
 ---
 
