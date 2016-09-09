@@ -247,11 +247,5 @@ If you want a more verbose JSON source to search, [*try this JSON source*](https
  * Uses camel-file, drools
 
 
-[**xbr_JammazwanContents**](https://github.com/jammazwan/xbr_JammazwanContents)
-
- * Main contents/index for Jammazwan Github projects
- * Uses ttfhw
-
-
 ---
 
